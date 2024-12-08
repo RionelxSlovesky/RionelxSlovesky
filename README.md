@@ -1,6 +1,6 @@
 ![logo](https://github.com/RionelxSlovesky/RionelxSlovesky/blob/main/Ahmed%20Omar%20Salim%20Adnan.png)
 <h1 align="center">At your virtual doorsteps 👋, I'm Ahmed Omar</h1>
-<h3 align="center">A Jr. Web Dev and Data Science Enthusiast</h3>
+<h3 align="center">Data Scientist</h3>
 
 <p>
   <img width=45% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rionelxslovesky&" alt="rionelxslovesky" />
